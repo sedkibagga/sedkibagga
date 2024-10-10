@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedkibagga" alt="sedkibagga" /></a> </p>
 
 - 🔭 I'm building a Spring Boot Microservices project that integrates multiple services [E-Shop](https://github.com/sedkibagga/e-shop)
+-  📫 How to reach me sedki.bagga@eniso.u-sousse.tn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
