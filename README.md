@@ -6,7 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedkibagga" alt="sedkibagga" /></a> </p>
 
 -🔭 I’m currently studing on National Engineering School of Sousse
+<br/>
 -🔭 I'm building a Spring Boot Microservices project that integrates multiple services [E-Shop](https://github.com/sedkibagga/e-shop)
+<br/>
 -📫 How to reach me sedki.bagga@eniso.u-sousse.tn
 
 
